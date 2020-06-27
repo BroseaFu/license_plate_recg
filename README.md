@@ -6,10 +6,10 @@
 
 示例：
 	新建文件夹方式：
-![image-20200627205725177](C:\Users\Fuhai\AppData\Roaming\Typora\typora-user-images\image-20200627205725177.png)
+![image-20200627205725177](https://github.com/BroseaFu/license_plate_recg/blob/master/image-1.png)
 
 ​	字符命名方式：
-![image-20200627205755682](C:\Users\Fuhai\AppData\Roaming\Typora\typora-user-images\image-20200627205755682.png)
+![image-20200627205755682](https://github.com/BroseaFu/license_plate_recg/blob/master/image-2.png)
 
 # 源文件解读
 
