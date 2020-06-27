@@ -6,10 +6,10 @@
 
 示例：
 	新建文件夹方式：
-![image-20200627205725177](https://raw.githubusercontent.com/BroseaFu/license_plate_recg/master/image-1.png)
+![image-1](https://raw.githubusercontent.com/BroseaFu/license_plate_recg/master/image-1.png)
 
 ​	字符命名方式：
-![image-20200627205755682](https://raw.githubusercontent.com/BroseaFu/license_plate_recg/master/image-2.png)
+![image-2](https://raw.githubusercontent.com/BroseaFu/license_plate_recg/master/image-2.png)
 
 # 源文件解读
 
